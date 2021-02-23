@@ -4,5 +4,5 @@ function getRandomLetter() {
     return singleLetter;
 }
 getRandomLetter();
-
+console.log(getRandomLetter());
 
